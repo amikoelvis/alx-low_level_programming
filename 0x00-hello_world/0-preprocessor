@@ -1,0 +1,2 @@
+#!bin/bash
+cpp -o output.i input.c
